@@ -1,10 +1,19 @@
 # Gitbook Theme For Typora
-![img](media/variants.png)
+
+> Based on [H16nning/Typora-Gitbook-Theme](https://github.com/h16nning/typora-gitbook-theme)
+
+![img](img/variants.png)
 
 This typora theme is inspired by the [Gitbook](https://www.gitbook.com) document style. It features three variants: *Azure*, *Slate* and *Teal*.
 
 > Designed and tested on Windows 10 and macOS. Not tested, but it should also work for Linux.
+## Changes
+
+* Modify the font color in dark mode to light gray to avoid glare
+* Modified the code block style to accommodate more code
+
 ## Installation instructions
+
 1. Download the zipped project package [here](https://github.com/Henning16/typora-gitbook-theme/releases/latest) and un-zip it.
 2. Copy the `gitbook-azure.css`, `gitbook-slate.css` and `gitbook-teal.css` file as well as the folder named `gitbook` to your Typora theme library. **It is important that you put this folder in there too as it contains important files and fonts, which are required for the theme to work properly.**
 4. Launch or restart Typora and choose *Gitbook Azure*, *Gitbook Slate*, *Gitbook Teal* from the theme menu.
@@ -21,28 +30,25 @@ You can also put these modifications into a seperate css file [as chchen-standfo
 
 ## Details
 
-![img](media/gitbookthumbnail.png)
+![img](img/gitbookthumbnail.png)
 
-![](media/tables.png)
+![](img/tables.png)
 
-![](media/codeboxes.png)
+![](img/codeboxes.png)
 
-![](media/quotes.png)
+![](img/quotes.png)
 
-![](media/mathblocks.png)
+![](img/mathblocks.png)
 
 ## Older Screenshots
 
 These screenshots are not fully up to date but they show the slate and teal variants and some Windows specific views.
 
-![img](media/gitbookazure.png)
+![img](img/gitbookazure.png)
 
-![](media/gitbookteal.png)
+![](img/gitbookslate.png)
 
-![](media/gitbookslate.png)
+![](img/gitbookui1.png)
 
-![](media/gitbookui1.png)
+![](img/gitbookui3.png)
 
-![](media/gitbookui2.png)
-
-![](media/gitbookui3.png)
